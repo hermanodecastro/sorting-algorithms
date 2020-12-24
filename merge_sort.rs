@@ -1,4 +1,4 @@
-use std::fmt::{Display};
+use std::fmt::Display;
 
 fn merge_sort<T: PartialOrd + Copy>(array: &mut [T], start: usize, end: usize) -> () {
 	if start < end {
