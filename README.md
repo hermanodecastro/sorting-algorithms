@@ -1,5 +1,5 @@
 # Sorting algorithms
-implementation of some sorting algorithms in Rust
+Implementation of some sorting algorithms in Rust
 
 * Block Sort
 * Bubble Sort
